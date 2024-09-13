@@ -1,4 +1,5 @@
 FAST - REACT - PIZZA
+
 React application for ordering pizza online from Fast-Pizza store
 
 steps for running the application locally-
